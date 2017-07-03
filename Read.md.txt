@@ -1,0 +1,3 @@
+Если при запуске проекта появляется ошибка  "Error:Unable to make the module: related gradle configuration was not found. Please, re-import the Gradle project and try again."
+Требуется пересобрать проект, для этого перейти View - Tool Windows - Graddle
+и нажать кнопку Refresh all Gradle projects
